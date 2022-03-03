@@ -4,14 +4,14 @@ I've partnered up with some people to give out some epic prizes, although, for n
 
 # Prizes you can win
 
-- Iphone Pro
-- Macbook Pro
-- Ipad Pro
-- Ipad Mini
-- Ipad Air
 - 1000 Minecons
 - 1000 Robux
 - 500 Vbucks
+- Official YouTube Tshirt
+- Official Google Cap
+- Official Google Mug
+- Official YouTube Mug
+- Official Youtube Bag
 - 100$
 - 50$
 - 500$
