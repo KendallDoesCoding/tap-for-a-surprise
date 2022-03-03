@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=ZCOOL+QingKe+HuangYou&display=swap");
+
+.random-song {
+  color: #ffa500;
+}
+
+button {
+  /* This button is for the YML directory NOT the main page */
+  background-image: radial-gradient(
+    circle farthest-corner at 92.3% 71.5%,
+    rgba(83, 138, 214, 1) 0%,
+    rgba(134, 231, 214, 1) 90%
+  );
+  color: white;
+  outline: none;
+  border: none;
+  font-family: "Handlee", cursive;
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  transition: all 0.2s ease-in-out;
+  margin-top: 1rem;
+}
+
+#suprise-button {
+  color: black;
+  font-family: "ZCOOL QingKe HuangYou", cursive;
+}
+
+.prizes {
+  color: red;
+}
+
+.info {
+  color: purple;
+}
+
+h1 {
+  text-decoration: underline;
+}
