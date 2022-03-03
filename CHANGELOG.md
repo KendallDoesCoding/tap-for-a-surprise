@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/KendallDoesCoding/tap-for-a-suprise/compare/v0.4.0...v0.5.0) (2022-03-03)
+
+
+### Features
+
+* Add font awesome and gift icon ([c10bd7d](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/c10bd7db07f965503a5d6015ab686a4926f0f96d))
+
+
+
 # [0.4.0](https://github.com/KendallDoesCoding/tap-for-a-suprise/compare/v0.3.0...v0.4.0) (2022-03-03)
 
 
