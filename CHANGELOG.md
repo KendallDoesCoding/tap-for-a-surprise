@@ -1,3 +1,17 @@
+# [0.3.0](https://github.com/KendallDoesCoding/tap-for-a-suprise/compare/v0.2.0...v0.3.0) (2022-03-03)
+
+
+### Bug Fixes
+
+* button font ([3781ecd](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/3781ecdd1d78fadfbf23e54d919e6aec7643f26c))
+
+
+### Features
+
+* update/add fonts to p tags inside prizes and info ([82e7eca](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/82e7ecac4ad3ee70c824054cb919c9f285ef4e34))
+
+
+
 # [0.2.0](https://github.com/KendallDoesCoding/tap-for-a-suprise/compare/v0.1.0...v0.2.0) (2022-03-03)
 
 
