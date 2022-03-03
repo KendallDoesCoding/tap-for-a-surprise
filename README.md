@@ -1,6 +1,6 @@
 # tap-for-a-suprise
 
-I've partnered up with some people to give out some epic prizes, although, for now there's a small chance of 0.0001% that you win anything, until I partner with more people that is :D
+I've partnered up with some people to give out some epic prizes, although, for now there's a small chance of 0.0001% that you win anything, until I partner with more people that is :D.
 
 # Prizes you can win
 
@@ -26,5 +26,5 @@ If your interested in partnering up to give away prizes for this project, please
 
 # FAQ (Frequently Asked Questions)
 
-- Is there a limit of times you can "Tap To Win A Prize"
-  - No, you can tap as many times as of want, but it will take a LONG LONG time to win any prize, if your unlucky, but if you got dedication, you will win a prize :)
+- Is there a limit of times you can "Tap To Win A Prize"?
+  - No, you can tap as many times as of want, but it will take a LONG LONG time to win any prize, if your unlucky, but if you got dedication, you will win a prize :).
