@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/KendallDoesCoding/tap-for-a-suprise/compare/v0.3.0...v0.4.0) (2022-03-03)
+
+
+### Features
+
+* add 500 vbucks as a prize you can win. ([bf20d4f](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/bf20d4fb48a158e6a6962708881a21c422b32deb))
+
+
+
 # [0.3.0](https://github.com/KendallDoesCoding/tap-for-a-suprise/compare/v0.2.0...v0.3.0) (2022-03-03)
 
 
