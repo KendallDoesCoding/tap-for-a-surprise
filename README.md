@@ -2,7 +2,7 @@
 
 I've partnered up with some people to give out some epic prizes, although, for now there's a small chance of 0.0001% that you win anything, until I partner with more people, that is : D.
 
-# Prizes you can win
+# Prizes You Can Win
 
 - 1000 Minecons
 - 1000 Robux
