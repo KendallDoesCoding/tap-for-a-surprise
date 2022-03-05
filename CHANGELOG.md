@@ -1,3 +1,13 @@
+## [0.5.1](https://github.com/KendallDoesCoding/tap-for-a-suprise/compare/v0.5.0...v0.5.1) (2022-03-05)
+
+
+### Bug Fixes
+
+* grammer issues, wrong spelling of Surprise, etc. ([055618c](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/055618c704720842ad2b78cec2601c6dcc37bcb1))
+* Wrong url of project site. ([3184307](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/31843079817ee091b5265834b59e788758af70e2))
+
+
+
 # [0.5.0](https://github.com/KendallDoesCoding/tap-for-a-suprise/compare/v0.4.0...v0.5.0) (2022-03-03)
 
 
@@ -43,15 +53,6 @@
 
 * Add 50 and 500$ price. ([cc934d8](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/cc934d81539f0a1a4f9f9735addc7091f9873fd4))
 * Make h1 font italic and bold. ([55befa9](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/55befa9a9d32acb8160410b334519141471354af))
-
-
-
-# [0.1.0](https://github.com/KendallDoesCoding/tap-for-a-suprise/compare/c250719bc4331f3c940fd599b74f5c6519d1c253...v0.1.0) (2022-03-03)
-
-
-### Features
-
-* Tap For A Suprise website ([c250719](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/c250719bc4331f3c940fd599b74f5c6519d1c253))
 
 
 
