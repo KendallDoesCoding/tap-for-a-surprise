@@ -27,4 +27,4 @@ If your interested in partnering up to give away prizes for this project, please
 # FAQ (Frequently Asked Questions)
 
 - Is there a limit of times you can "Tap To Win A Prize"?
-  - No, you can tap as many times as of want, but it will take a LONG LONG time to win any prize, if your unlucky, but if you got dedication, you will win a prize :).
+  - No, you can tap as many times as of want, but it will take a long long time to win any prize, if your unlucky, but if you have dedication, you will win a prize :).
