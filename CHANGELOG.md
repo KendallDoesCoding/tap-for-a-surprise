@@ -1,3 +1,13 @@
+## [0.5.2](https://github.com/KendallDoesCoding/tap-for-a-suprise/compare/v0.5.1...v0.5.2) (2022-03-05)
+
+
+### Bug Fixes
+
+* update button to correct spelling of surprise ([f40097a](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/f40097ad5f92d33496a5b9abcb2bec126ec45069))
+* update id to correct spelling of surprise ([01bea19](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/01bea198c7cae772bf024c2a87263cef4501a38d))
+
+
+
 ## [0.5.1](https://github.com/KendallDoesCoding/tap-for-a-suprise/compare/v0.5.0...v0.5.1) (2022-03-05)
 
 
@@ -37,22 +47,6 @@
 ### Features
 
 * update/add fonts to p tags inside prizes and info ([82e7eca](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/82e7ecac4ad3ee70c824054cb919c9f285ef4e34))
-
-
-
-# [0.2.0](https://github.com/KendallDoesCoding/tap-for-a-suprise/compare/v0.1.0...v0.2.0) (2022-03-03)
-
-
-### Bug Fixes
-
-* fix alignment issue ([32146e1](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/32146e186fe9509681765af7c9c979be32a49f24))
-* update grammer in info section p tags. ([5cb397c](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/5cb397c61ff54f92eb64800b405812fbb9ff1463))
-
-
-### Features
-
-* Add 50 and 500$ price. ([cc934d8](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/cc934d81539f0a1a4f9f9735addc7091f9873fd4))
-* Make h1 font italic and bold. ([55befa9](https://github.com/KendallDoesCoding/tap-for-a-suprise/commit/55befa9a9d32acb8160410b334519141471354af))
 
 
 
