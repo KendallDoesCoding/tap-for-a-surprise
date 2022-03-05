@@ -1,3 +1,15 @@
+## [0.5.4](https://github.com/KendallDoesCoding/tap-for-a-surprise/compare/v0.5.3...v0.5.4) (2022-03-05)
+
+
+### Bug Fixes
+
+* format html file p tags properly ([c6c530d](https://github.com/KendallDoesCoding/tap-for-a-surprise/commit/c6c530d56ed01f183bcd9c7f184e8a5117d85133))
+* remove extra indent linking the js file in HTML. ([dd51538](https://github.com/KendallDoesCoding/tap-for-a-surprise/commit/dd51538604791acc73e840ed68f23b3b145ce4be))
+* Update js file to proper spelling of surprise ([2424d98](https://github.com/KendallDoesCoding/tap-for-a-surprise/commit/2424d98cfd395df9942d3ac71a4dc6601386017d))
+* update to proper spelling of surprise to the div class ([f6a4d6d](https://github.com/KendallDoesCoding/tap-for-a-surprise/commit/f6a4d6d3958f583a6f22a140c2a78fae1b18f0b8))
+
+
+
 ## [0.5.3](https://github.com/KendallDoesCoding/tap-for-a-surprise/compare/v0.5.2...v0.5.3) (2022-03-05)
 
 
@@ -34,15 +46,6 @@
 ### Features
 
 * Add font awesome and gift icon ([c10bd7d](https://github.com/KendallDoesCoding/tap-for-a-surprise/commit/c10bd7db07f965503a5d6015ab686a4926f0f96d))
-
-
-
-# [0.4.0](https://github.com/KendallDoesCoding/tap-for-a-surprise/compare/v0.3.0...v0.4.0) (2022-03-03)
-
-
-### Features
-
-* add 500 vbucks as a prize you can win. ([bf20d4f](https://github.com/KendallDoesCoding/tap-for-a-surprise/commit/bf20d4fb48a158e6a6962708881a21c422b32deb))
 
 
 
