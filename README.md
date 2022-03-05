@@ -1,6 +1,6 @@
 # tap-for-a-surprise
 
-I've partnered up with some people to give out some epic prizes, although, for now there's a small chance of 0.0001% that you win anything, until I partner with more people that is :D.
+I've partnered up with some people to give out some epic prizes, although, for now there's a small chance of 0.0001% that you win anything, until I partner with more people, that is : D.
 
 # Prizes you can win
 
