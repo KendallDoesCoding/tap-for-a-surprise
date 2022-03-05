@@ -18,7 +18,7 @@ I've partnered up with some people to give out some epic prizes, although, for n
 
 # Project Site
 
-What are you waiting for? Go and try to win some of the above listed prizes [here](https://tap-for-a-surprise.kendalldoescoding.gq.
+What are you waiting for? Go and try to win some of the above listed prizes [here](https://tap-for-a-surprise.kendalldoescoding.gq).
 
 # Partner
 
