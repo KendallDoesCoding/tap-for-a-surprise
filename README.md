@@ -1,5 +1,9 @@
 # tap-for-a-surprise
 
+<div align="center">
+  <img src="https://socialify.git.ci/KendallDoesCoding/tap-for-a-surprise/image?description=1&descriptionEditable=We%20got%20a%20bunch%20of%20partners%20to%20giveaway%20some%20epic%20stuff.%20&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" />
+</div>
+
 I've partnered up with some people to give out some epic prizes, although, for now there's a small chance of 0.0001% that you win anything, until I partner with more people, that is : D.
 
 # Prizes You Can Win
