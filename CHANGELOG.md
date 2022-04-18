@@ -1,3 +1,12 @@
+## [0.5.5](https://github.com/KendallDoesCoding/tap-for-a-surprise/compare/v0.5.4...v0.5.5) (2022-04-18)
+
+
+### Bug Fixes
+
+* wrong spelling of appreciate ([af9fdd5](https://github.com/KendallDoesCoding/tap-for-a-surprise/commit/af9fdd544e86385f240011a653f913efc05a8fbf))
+
+
+
 ## [0.5.4](https://github.com/KendallDoesCoding/tap-for-a-surprise/compare/v0.5.3...v0.5.4) (2022-03-05)
 
 
@@ -37,15 +46,6 @@
 
 * grammer issues, wrong spelling of Surprise, etc. ([055618c](https://github.com/KendallDoesCoding/tap-for-a-surprise/commit/055618c704720842ad2b78cec2601c6dcc37bcb1))
 * Wrong url of project site. ([3184307](https://github.com/KendallDoesCoding/tap-for-a-surprise/commit/31843079817ee091b5265834b59e788758af70e2))
-
-
-
-# [0.5.0](https://github.com/KendallDoesCoding/tap-for-a-surprise/compare/v0.4.0...v0.5.0) (2022-03-03)
-
-
-### Features
-
-* Add font awesome and gift icon ([c10bd7d](https://github.com/KendallDoesCoding/tap-for-a-surprise/commit/c10bd7db07f965503a5d6015ab686a4926f0f96d))
 
 
 
