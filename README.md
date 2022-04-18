@@ -8,14 +8,15 @@ I've partnered up with some people to give out some epic prizes, although, for n
 
 # Prizes You Can Win
 
-- 1000 Minecons
-- 1000 Robux
-- 500 Vbucks
 - Official YouTube Tshirt
 - Official Google Cap
 - Official Google Mug
 - Official YouTube Mug
-- Official Youtube Bag
+- Official YouTube Bag
+- Ipad Air
+- 1000 Minecons
+- 1000 Robux
+- 500 Vbucks
 - 100$
 - 50$
 - 500$
