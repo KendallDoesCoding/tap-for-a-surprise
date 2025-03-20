@@ -23,11 +23,11 @@ I've partnered up with some people to give out some epic prizes, although, for n
 
 # Project Site
 
-What are you waiting for? Go and try to win some of the above listed prizes [here](https://tap-for-a-surprise.kendalldoescoding.gq).
+What are you waiting for? Go and try to win some of the above listed prizes [here](https://tap-for-a-surprise.kencodes.tech).
 
 # Partner
 
-If your interested in partnering up to give away prizes for this project, please email me at kendall@kendalldoescoding.gq.
+If your interested in partnering up to give away prizes for this project, please email me at kendall@kencodes.tech.
 
 # FAQ (Frequently Asked Questions)
 
